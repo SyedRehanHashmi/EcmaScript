@@ -1,4 +1,4 @@
-const fencingforrectangle = (b, w numberofwire, costperfeet) => {
+const fencingforrectangle = (b, w, numberofwire, costperfeet) => {
     const parimeter = b + w + b + w;
     const totalcost = parimeter * numberofwire * costperfeet;
     return totalcost;

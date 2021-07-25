@@ -1,9 +1,9 @@
-function evennum (num1,num2){
-    if (num1%2==0,num2%2==0){
-        return num1;
+function evennum(number) {
+    if (number % 2 === 0) {
+        return true;
     }
-    else{
-        return num2;
+    else {
+        return false;
     }
 }
-console.log(evennum(101,120))
+    console.log(evennum(120));
