@@ -1,6 +1,5 @@
 const employeedata = (data) =>
-    data.map(
-        (item) =>
+    data.map( (item) =>
 
             ` i am planning to do ${item.course} from ${item.institute} in ${item.city} and no. is ${item.moblieNo}`
     );
