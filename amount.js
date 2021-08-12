@@ -8,5 +8,5 @@ Math.round   (distance / mileage) * fuelprice;
 
 console.log(`Amount need to fill fuel is Rs.${mileagecost(306,37,110.18)}`);
 
-/* this step for making round figaure
-console.log(Math.floor(12.75));*/
+ //  this step for making round figaure
+// console.log(Math.floor(12.75));

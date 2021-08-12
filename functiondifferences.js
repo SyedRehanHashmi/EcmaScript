@@ -6,6 +6,7 @@ function getdata (){
 }
 getdata();
 
+
 function getdata(){
     if (true){
         let name="PickupBiz"
