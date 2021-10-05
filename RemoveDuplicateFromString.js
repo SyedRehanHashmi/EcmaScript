@@ -28,13 +28,13 @@ console.log(
 
 // < ------------------------------------------------------------>
 
-const findAllDuplicate = (arr) => {
+const findAllDuplicate89 = (arr) => {
     const newArr = [];
     arr.forEach((element) => {
         console.log(arr.indexOf(element));
     });
 };
-findAllDuplicate([1, 5, 2, 6, 7, 9, 1, 70, 45, 2, 89]);
+findAllDuplicate89([1, 5, 2, 6, 7, 9, 1, 89, 45, 2, 89]);
 
 // -----------------------------------------------
 
