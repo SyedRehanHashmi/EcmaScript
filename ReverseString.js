@@ -7,9 +7,10 @@ const revStr = (str) => {
     return newArr.join(" ");
 };
 
-// ---------------------
-
 console.log(revStr("I am Fine"))
+
+
+// ---------------------
 
 const arr2 = ["S", "R", "H"];
 
